@@ -1,4 +1,4 @@
-# CBOW Word2Vec — From Scratch Implementation
+# CBOW Word2Vec 
 A from-scratch implementation of the Word2Vec CBOW (Continuous Bag of Words) model using only NumPy, built as part of the JetBrains 2026 internship application.
 ## What's in here
 
